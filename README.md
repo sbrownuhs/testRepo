@@ -1,2 +1,2 @@
 # testRepo2
-repo created from git
+repo created from git for practice
